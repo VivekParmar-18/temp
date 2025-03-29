@@ -1,0 +1,59 @@
+{
+    "welcome": "Welcome to Yogeshbhai Mattress & Curtains",
+    "tagline": "Custom Sleep Solutions Since 1995",
+    "our_products": "Our Premium Products",
+    "products": {
+      "orthopedic": "Orthopedic Mattress",
+      "orthopedic_desc": "Custom-made orthopedic support with premium foam",
+      "spring": "Pocket Spring Mattress",
+      "spring_desc": "Advanced spring technology for perfect support"
+    },
+    "gallery": {
+      "mattress1": "Orthopedic Mattress",
+      "mattress2": "Spring Mattress",
+      "workshop": "Our Workshop",
+      "curtains1": "Arabian Curtains",
+      "curtains2": "Modern Curtains",
+      "installation": "Professional Installation"
+    },
+    "about_us": "About Our Company",
+    "about_text": "Family-owned business in Ahmedabad providing custom mattresses and curtains since 1995. We combine traditional craftsmanship with modern materials.",
+    "our_team": "Meet Our Team",
+    "team": {
+      "yogesh": "Yogeshbhai Parmar",
+      "rahul": "Rahul Parmar",
+      "priya": "Priya Shah"
+    },
+    "roles": {
+      "ceo": "Founder & CEO",
+      "craftsman": "Master Craftsman",
+      "designer": "Lead Designer"
+    },
+    "footer": {
+      "about": {
+        "title": "About Us",
+        "description": "Family-run mattress and curtain business serving Ahmedabad since 1995"
+      },
+      "links": {
+        "title": "Quick Links",
+        "home": "Home",
+        "products": "Products",
+        "gallery": "Gallery",
+        "about": "About"
+      },
+      "contact": {
+        "title": "Contact Us"
+      },
+      "rights_reserved": "All rights reserved"
+    },
+    "dimensions": "Dimensions",
+    "width": "Width",
+    "height": "Height",
+    "materials": "Materials",
+    "select_material": "Select Material",
+    "estimated_price": "Estimated Price",
+    "add_to_cart": "Add to Cart",
+    "added_to_cart": "Item added to cart!",
+    "address_line1": "123 Mattress Nagar",
+    "address_line2": "Naroda Road"
+  }
